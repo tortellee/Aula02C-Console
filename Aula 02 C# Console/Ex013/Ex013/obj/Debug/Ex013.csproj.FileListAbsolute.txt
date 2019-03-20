@@ -1,0 +1,6 @@
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 3\Ex013\Ex013\bin\Debug\Ex013.exe.config
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 3\Ex013\Ex013\bin\Debug\Ex013.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 3\Ex013\Ex013\bin\Debug\Ex013.pdb
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 3\Ex013\Ex013\obj\Debug\Ex013.csproj.CoreCompileInputs.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 3\Ex013\Ex013\obj\Debug\Ex013.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 3\Ex013\Ex013\obj\Debug\Ex013.pdb

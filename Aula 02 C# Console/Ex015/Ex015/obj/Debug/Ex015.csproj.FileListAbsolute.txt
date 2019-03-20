@@ -1,0 +1,7 @@
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 3\Ex015\Ex015\obj\Debug\Ex015.csprojAssemblyReference.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 3\Ex015\Ex015\obj\Debug\Ex015.csproj.CoreCompileInputs.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 3\Ex015\Ex015\bin\Debug\Ex015.exe.config
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 3\Ex015\Ex015\bin\Debug\Ex015.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 3\Ex015\Ex015\bin\Debug\Ex015.pdb
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 3\Ex015\Ex015\obj\Debug\Ex015.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 3\Ex015\Ex015\obj\Debug\Ex015.pdb
